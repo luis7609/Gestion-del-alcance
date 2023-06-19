@@ -1,0 +1,265 @@
+Gestión del Alcance del Proyecto
+La Gestión del Alcance del Proyecto incluye los procesos necesarios para garantizar que el proyecto incluya todo el trabajo requerido para 
+Gestion del alcance del proyecto
+completarlo con éxito. El objetivo principal de la Gestión del Alcance del Proyecto es definir y controlar qué se incluye y qué no se incluye en el proyecto.
+Los procesos de la Gestión del Alcance del Proyecto son:
+•	Recopilar Requisitos Q Definir el Alcance
+Crear la EDT
+Verificar el Alcance
+Controlar el Alcance
+En el contexto del proyecto, el término alcance puede referirse a:
+•	Alcance del producto. Las características y funciones que definen un producto, servicio o resultado.
+•	Alcance del proyecto. El trabajo que debe realizarse para entregar un producto, servicio o resultado con las características y funciones especificadas.
+El grado de cumplimiento del alcance del proyecto se mide con relación al plan para la dirección del proyecto. El grado de cumplimiento del producto se mide con relación con los requisitos del producto. Los procesos de Gestión del Alcance del Proyecto necesitan integrarse adecuadamente a los procesos de las otras áreas de conocimiento, de modo que el trabajo del proyecto genere como resultado la entrega del alcance del producto especificado.
+ 
+Recopilar requisitos
+Los requisitos incluyen las necesidades, deseos y expectativas cuantificadas y documentadas del patrocinador, del cliente y de otros interesados. Estos requisitos deben recabarse, analizarse y registrarse con un nivel de detalle suficiente, que permita medirlos una vez que se inicia el proyecto.
+Recopilar Requisitos significa definir y gestionar las expectativas del cliente. Los requisitos constituyen la base de la EDT. La planificación del costo, del cronograma y de la calidad se efectúa en función de ellos. El desarrollo de los requisitos comienza con un análisis de la información contenida en el acta de constitución del proyecto y en el registro de interesados.
+Muchas organizaciones establecen una distinción entre requisitos del proyecto y requisitos del producto. Los requisitos del proyecto pueden incluir los requisitos de la empresa, de dirección de proyectos, de entrega, etc. Los requisitos del producto pueden incluir la información sobre requisitos técnicos, requisitos de seguridad, de desempeño, etc.
+Entradas
+.1 Acta de Constitución del Proyecto
+El acta de constitución del proyecto se usa para proporcionar los requisitos de alto nivel del proyecto, así como una descripción de alto nivel del producto del proyecto, de modo que puedan establecerse los requisitos detallados del producto.
+.2 Registro de Interesados
+El registro de interesados se usa para identificar a los interesados que pueden proporcionar información acerca de los requisitos detallados del proyecto y del producto.
+ 
+
+Recuperar requisitos:Herramientas y Técnicas
+.1 Entrevistas
+Una entrevista es una manera formal o informal de obtener información acerca de los interesados, a través de un diálogo directo con ellos. Se realiza habitualmente haciendo preguntas, preparadas o espontáneas, y registrando las respuestas. Las entrevistas se realizan a menudo de manera individualizada, pero también pueden implicar a varios entrevistadores y/o entrevistados. Entrevistar a participantes con experiencia en el proyecto, así como a interesados y expertos en la materia, puede ayudar a identificar y definir las características y funciones de los entregables esperados del proyecto.
+
+,2 Grupos de Opinión
+Los grupos de opinión reúnen a los interesados y expertos en la materia, preseleccionados para conocer acerca de sus expectativas y actitudes con respecto a un producto, servicio o resultado propuesto. Un moderador capacitado guía al grupo a través de una discusión interactiva diseñada para ser más conversacional que una entrevista individual.
+,3 Talleres Facilitados
+Los talleres orientados hacia los requisitos son sesiones en donde se reúne a los interesados inter-funcionales clave para definir los requisitos del producto. Estos talleres se consideran una técnica primordial para definir rápidamente los requisitos de funcionalidad compartida y conciliar las diferencias entre los interesados. Debido a su naturaleza interactiva, los talleres facilitados, bien dirigidos pueden desarrollar la confianza, fomentar las relaciones, y mejorar la comunicación entre los participantes, lo que puede llevar a un mayor consenso entre los interesados. Otro beneficio de esta técnica es que los problemas pueden identificarse y resolverse más rápidamente que en sesiones individuales.
+,3 Talleres Facilitados
+Por ejemplo, los talleres facilitados conocidos como sesiones conjuntas de desarrollo (o diseño) de aplicaciones (JAD, Joint Application Development) se utilizan en la industria de desarrollo de software. Estas sesiones dirigidas se enfocan en reunir a los usuarios y al equipo de desarrollo para mejorar el proceso de desarrollo de software.
+,4 Técnicas Grupales de Creatividad
+•	lluvia de ideas. Una técnica usada para generar y recopilar numerosas ideas relacionadas con los requisitos del proyecto y del producto.
+•	Técnicas de grupo nominal. Esta técnica mejora la lluvia de ideas, mediante un proceso de votación que se usa para jerarquizar las ideas más útiles, para realizar una lluvia de ideas adicional, o para asignarles prioridades.
+•	La técnica Delphi. Un grupo seleccionado de expertos contesta de manera anónima cuestionarios y proporciona retroalimentación respecto de las respuestas de cada ronda de recopilación de requisitos. Para conservar el anonimato, estas respuestas sólo están a disposición del moderador.
+,4 Técnicas Grupales de Creatividad
+• Mapa conceptual/mental. Las ideas que surgen durante las sesiones de lluvia de ideas individuales se consolidan en un esquema único para reflejar los puntos en común y las diferencias de entendimiento, y generar nuevas ideas.
+Diagrama de afinidad. Esta técnica permite clasificar en grupos un gran número de ideas para su revisión y análisis.
+.6 Cuestionarios y Encuestas
+Los cuestionarios y las encuestas son conjuntos de preguntas escritas, diseñadas para acumular información rápidamente, proveniente de un amplio número de encuestados. Los cuestionarios y/o las encuestas son apropiados sobre todo en caso de un público numeroso, cuando se requiere una respuesta más rápida y cuando es conveniente realizar análisis estadísticos.
+,7 Observaciones
+Las observaciones proporcionan una manera directa de ver a las personas en su ambiente, y el modo en que realizan sus trabajos o tareas y ejecutan los procesos. Son particularmente útiles para procesos detallados, cuando las personas que usan el producto tienen dificultades o se muestran renuentes para articular sus requisitos.
+,8 Prototipos
+La elaboración de prototipos es un método para obtener una retroalimentación rápida respecto de los requisitos, proporcionando un modelo operativo del producto esperado antes de construirlo realmente. Una vez que se han efectuado los ciclos de retroalimentación necesarios, los requisitos obtenidos a partir del prototipo están lo suficientemente completos para pasar a la fase de diseño o construcción.
+ 
+Recopolar requisitos: Salidas
+.1 Documentación de Requisitos
+La documentación de requisitos describe el modo en que los requisitos individuales cumplen con las necesidades comerciales del proyecto.
+Entre los componentes de la documentación de requisitos pueden incluirse:
+•	La necesidad comercial u oportunidad, que describa las limitaciones de la situación actual y las razones que llevaron a emprender el proyecto.
+•	Objetivos de la empresa y del proyecto a ser rastreados.
+•	Requisitos funcionales que describan los procesos de la empresa, la información y la interacción con el producto, según sea el caso, que puedan ser documentados por escrito en una lista de requisitos, en modelos o en ambos.
+•	Requisitos no funcionales, tales como nivel de servicio, desempeño, seguridad, cumplimiento, capacidad de soporte, retención/ depuración, etc.
+•	Requisitos de calidad.
+•	Criterios de aceptación.
+•	Reglas de la empresa que establecen los principios directivos de la organización.
+•	Impactos sobre otras áreas de la organización, tales como el centro de llamadas, la fuerza de ventas, los grupos tecnológicos.
+•	Impactos sobre otras entidades dentro o fuera de la organización ejecutante.
+•	Requisitos de apoyo y capacitación.
+•	Supuestos y restricciones alrededor de los requisitos.
+.2 Plan de Gestión de Requisitos
+El plan de gestión de requisitos documenta la manera en que se analizarán, documentarán y gestionarán los requisitos a lo largo del proyecto. La relación entre fases, ejerce una fuerte influencia sobre la manera en que se gestionan los requisitos. El director del proyecto debe seleccionar la relación más efectiva para el proyecto y debe documentar este enfoque dentro del plan de gestión de requisitos.
+Entre los componentes del plan de gestión de requisitos, pueden incluirse, entre otros:
+•	El modo en que las actividades de los requisitos serán planificadas, rastradas e informadas.
+•	Las actividades de gestión de la configuración, tales como el modo en que se iniciarán los cambios a los requisitos del producto, servicio o resultado; el método de análisis, seguimiento, registro y comunicación de los impactos, y el nivel de autorización requerido para aprobar dichos cambios.
+ 
+•	El proceso para otorgar prioridad a los requisitos.
+Las métricas del producto que se utilizarán y el fundamento de su uso.
+•	La estructura de rastreabilidad, es decir, qué atributos de los requisitos se plasmarán en la matriz de rastreabilidad y qué otros documentos del proyecto serán rastreados.
+Matriz de Rastreabilidad de Requisitos
+
+Recopolar requisitos
+La matriz de rastreabilidad de requisitos es una tabla que vincula los requisitos con su origen y los monitorea a lo largo del ciclo de vida del proyecto.
+Este proceso incluye rastrear:
+• los requisitos con respecto a las necesidades, oportunidades, metas y objetivos de la empresa
+•	los requisitos con respecto a los objetivos del proyecto
+•	los requisitos con respecto al alcance del proyecto/ a los entregables de la EDT
+•	los requisitos con respecto al diseño del producto
+•	los requisitos con respecto al desarrollo del producto
+•	los requisitos con respecto a la estrategia y los escenarios de prueba
+los requisitos de alto nivel con respecto a los requisitos más detallados
+GESTIÓN DEL ALCANCE DEL PROYECTO
+DEFINIR EL ALCANCE
+Definir el Alcance es el proceso que consiste en desarrollar una descripción detallada del proyecto y del producto. La preparación de una declaración detallada del alcance del proyecto es fundamental para su éxito, y se elabora a partir de los entregables principales, los supuestos y las restricciones que se documentan durante el inicio del proyecto. 
+DEFINIR EL ALCANCE
+Durante el proceso de planificación, el alcance del proyecto se define y se describe de manera más específica conforme se va recabando mayor información acerca del proyecto. Se analizan los riesgos, los supuestos y las restricciones existentes, para verificar que estén completos; según sea necesario, se irán agregando nuevos riesgos, supuestos y restricciones. 
+DEFINIR EL ALCANCE: ENTRADAS 
+.1 Acta de Constitución del Proyecto 
+El acta de constitución del proyecto proporciona una descripción del proyecto y las características del producto de alto nivel. Contiene además los requisitos de aprobación del proyecto. Si la organización ejecutante no utiliza un acta de constitución del proyecto, entonces se deberá obtener o desarrollar información equivalente, y utilizarla como base para la declaración detallada del alcance del proyecto. 
+DEFINIR EL ALCANCE: ENTRADAS 
+.2 Documentación de Requisitos .3 Activos de los Procesos de la Organización 
+•	las políticas, procedimientos y plantillas para una declaración del alcance del proyecto 
+•	los archivos de proyectos previos 
+•	las lecciones aprendidas procedentes de fases o proyectos previos 
+DEFINIR EL ALCANCE: HERRAMIENTAS Y TÉCNICAS 
+.1 Juicio de Expertos 
+.2 Análisis del Producto 
+Para proyectos cuyo entregable es un producto, a diferencia de un servicio o resultado, el análisis del producto puede constituir una herramienta eficaz. Cada área de aplicación cuenta con uno o varios métodos generalmente aceptados para traducir en entregables tangibles las descripciones de alto nivel del producto. El análisis del producto incluye técnicas tales como el desglose del producto, el análisis de sistemas, el análisis de requisitos, la ingeniería de sistemas, la ingeniería del valor y el análisis del valor.
+DEFINIR EL ALCANCE: HERRAMIENTAS Y TÉCNICAS 
+.3 Identificación de Alternativas 
+La identificación de alternativas es una técnica que se emplea para generar diferentes enfoques para la ejecución y desarrollo del trabajo del proyecto. Puede utilizarse una variedad de técnicas de gestión, tales como la lluvias de ideas, el pensamiento lateral, la comparación entre pares, etc. 
+.4 Talleres Facilitados
+DEFINIR EL ALCANCE: SALIDAS
+.1 Declaración del Alcance del Proyecto 
+La declaración del alcance del proyecto describe de manera detallada los entregables del proyecto y el trabajo necesario para crear esos entregables. La declaración del alcance del proyecto también proporciona un entendimiento común del alcance del proyecto entre los interesados en el proyecto. 
+DEFINIR EL ALCANCE: SALIDAS
+Esta declaración puede contener exclusiones explícitas del alcance, que pueden ayudar a gestionar las expectativas de los interesados. Esto permite al equipo del proyecto realizar una planificación más detallada, sirve como guía del equipo de trabajo durante la ejecución y proporciona la línea base para evaluar si las solicitudes de cambio o de trabajo adicional se encuentran dentro o fuera de los límites del proyecto.
+DEFINIR EL ALCANCE: SALIDAS
+El grado y nivel de detalle con que la declaración del alcance del proyecto define el trabajo que se realizará y el que se excluirá, pueden determinar el grado de control que el equipo del proyecto podrá ejercer sobre el alcance global del proyecto. 
+DEFINIR EL ALCANCE: SALIDAS
+La declaración detallada del alcance del proyecto incluye, ya sea directamente o por referencia a otros documentos, lo siguiente: 
+• Una descripción del alcance del producto. Elabora gradualmente las características del producto, servicio o resultado descrito en el acta de constitución del proyecto y en la documentación de requisitos. 
+DEFINIR EL ALCANCE: SALIDAS
+•	Los criterios de aceptación del producto. Definen el proceso y los criterios para la aceptación de los productos, servicios o resultados completados. 
+•	Los entregables del proyecto. Incluyen tanto las salidas, que abarcan el producto o servicio del proyecto, como los resultados auxiliares, tales como los informes y documentación generados por el proceso de dirección del proyecto. Los entregables pueden describirse de manera resumida o muy detallada.
+DEFINIR EL ALCANCE: SALIDAS
+•	Las exclusiones del proyecto. Por lo general, identifican lo que está excluido del proyecto. Establecer explícitamente lo que está fuera del alcance del proyecto ayuda a gestionar las expectativas de los interesados. 
+•	Las restricciones del proyecto. Enumera y describe las restricciones específicas asociadas con el alcance del proyecto que limitan las opciones del equipo, como por ejemplo, un presupuesto predeterminado, o fechas o hitos del cronograma impuestos por el cliente o la organización ejecutante. Cuando un proyecto se realiza en función de un contrato, las disposiciones contractuales constituyen generalmente restricciones
+DEFINIR EL ALCANCE: SALIDAS
+• Los supuestos del proyecto. Enumeran y describen supuestos que se realizan específicamente para el proyecto, asociados con el alcance del proyecto y el impacto potencial de tales supuestos en el caso que fueran falsos. Como parte del proceso de planificación, los equipos del proyecto identifican, documentan y validan frecuentemente los supuestos. 
+DEFINIR EL ALCANCE: SALIDAS
+.2 Actualizaciones a los Documentos del Proyecto 
+•	el registro de interesados 
+•	la documentación de requisitos 
+•	la matriz de rastreabilidad de requisitos 
+CREAR LA EDT 
+Crear la EDT es el proceso que consiste en subdividir los entregables del proyecto y el trabajo del proyecto en componentes más pequeños y más fáciles de manejar. La estructura de desglose del trabajo (EDT) es una descomposición jerárquica, basada en los entregables del trabajo que debe ejecutar el equipo del proyecto para lograr los objetivos del proyecto y crear los entregables requeridos, con cada nivel descendente de la EDT representando una definición cada vez más detallada del trabajo del proyecto. 
+CREAR LA EDT: ENTRADAS 
+.1 Declaración del Alcance del Proyecto .2 Documentación de Requisitos .3 Activos de los Procesos de la Organización 
+•	las políticas, procedimientos y plantillas de la EDT 
+•	los archivos de proyectos anteriores 
+•	las lecciones aprendidas procedentes de proyectos anteriores 
+CREAR LA EDT: HERRAMIENTAS Y TÉCNICAS
+.1 Descomposición 
+La descomposición es la subdivisión de los entregables del proyecto en componentes más pequeños y más manejables, hasta que el trabajo y los entregables queden definidos al nivel de paquetes de trabajo. El nivel de paquetes de trabajo es el nivel más bajo en la EDT, y es aquél en el que el costo y la duración de las actividades del trabajo pueden estimarse y gestionarse de manera más confiable. 
+CREAR LA EDT: HERRAMIENTAS Y TÉCNICAS
+La descomposición de la totalidad del trabajo del proyecto en paquetes de trabajo implica generalmente las siguientes actividades: 
+•	identificar y analizar los entregables y el trabajo relacionado
+•	estructurar y organizar la EDT 
+•	descomponer los niveles superiores de la EDT en componentes detallados de nivel inferior 
+•	desarrollar y asignar códigos de identificación a los componentes de la EDT 
+•	verificar que el grado de descomposición del trabajo sea el necesario y suficiente 
+CREAR LA EDT: HERRAMIENTAS Y TÉCNICAS
+La estructura de la EDT puede crearse de diferentes maneras, tales como: 
+•	Usando las fases del ciclo de vida del proyecto como primer nivel de descomposición, con los entregables del producto y del proyecto insertados en el segundo nivel.
+•	Usando los entregables principales como primer nivel de descomposición.
+•	Usando subproyectos que pueden ser ejecutados por organizaciones externas al equipo del proyecto, como trabajo contratado. En el marco de un trabajo mediante contrato, el vendedor desarrollará la estructura de desglose del trabajo contratado correspondiente. 
+CREAR LA EDT: HERRAMIENTAS Y TÉCNICAS
+Conforme se descompone el trabajo en niveles de mayor detalle, la capacidad de planificar, gestionar y controlar el trabajo es mayor. Sin embargo, una descomposición excesiva puede ocasionar un esfuerzo improductivo de gestión, un uso ineficaz de recursos y una disminución de la eficiencia de realización del trabajo. 
+CREAR LA EDT: SALIDAS 
+.1 EDT .2 Diccionario de la EDT 
+El diccionario de la EDT es un documento generado por el proceso 
+Crear la EDT, cuya función es respaldar la EDT. El diccionario de la EDT proporciona una descripción más detallada de los componentes de la EDT, incluyendo los paquetes de trabajo y las cuentas de control. 
+CREAR LA EDT: SALIDAS 
+La información del diccionario de la EDT incluye, entre otros: 
+•	el identificador del código de cuentas 
+•	la descripción del trabajo 
+•	la organización responsable 
+•	una lista de hitos del cronograma 
+•	las actividades asociadas del cronograma
+CREAR LA EDT: SALIDAS 
+•	los recursos necesarios 
+•	los estimados de costo 
+•	los requisitos de calidad 
+•	los criterios de aceptación • las referencias técnicas 
+•	la información del contrato
+CREAR LA EDT: SALIDAS 
+.3 Línea Base del Alcance 
+•	La declaración del alcance del proyecto. La declaración del alcance del proyecto incluye la descripción del alcance del producto y los entregables del proyecto, y define los criterios de aceptación establecidos por el usuario del producto. 
+•	La EDT. La EDT define cada entregable y su descomposición en paquetes de trabajo. 
+•	El diccionario de la EDT. El diccionario de la EDT contiene una descripción detallada del trabajo y documentación técnica acerca de cada elemento de la EDT.
+CREAR LA EDT: SALIDAS 
+.4 Actualizaciones a los Documentos del Proyecto 
+Los documentos del proyecto que pueden ser actualizados incluyen, entre otros, la documentación de los requisitos. En caso de que se generen solicitudes de cambio aprobadas a raíz del proceso Crear la EDT, es posible que sea necesario actualizar la documentación de requisitos para incorporar tales cambios.
+QUE DEBE TENER EL PROYECTO FINAL?
+CARPETA PROFECIONAL
+•	CASO DE NEGOCIO
+•	METAS Y OBJETIVOS
+•	MISION Y VISION
+•	ACTA DEL PROYECTO
+•	GESTION DEL ALCANCE
+•	RECOPILACION DE REQUIRIMIENTO
+•	ALCANCE
+•	EDT (DICCIONARIO DEL EDT)
+•	PERT
+•	GESTION DE COSTOS
+MANUAL
+
+VERIFICAR EL ALCANCE
+Verificar el Alcance es el proceso que consiste en formalizar la aceptación de los entregables del proyecto que se han completado. Verificar el alcance incluye revisar los entregables con el cliente o el patrocinador para asegurarse de que se han completado satisfactoriamente y para obtener de ellos su aceptación formal.
+VERIFICAR EL ALCANCE
+La verificación del alcance difiere del control de calidad en que mientras la primera corresponde principalmente a la aceptación de los entregables, el segundo se refiere sobre todo a corroborar la exactitud de los entregables y su cumplimiento con los requisitos de calidad especificados para los entregables. Por lo general, el control de calidad se lleva a cabo antes de la verificación del alcance, pero ambos procesos pueden efectuarse en paralelo.
+VERIFICAR EL ALCANCE: ENTRADAS 
+.1 Plan para la Dirección del Proyecto 
+El plan para la dirección del proyecto contiene la línea base del alcance. Los componentes de la línea base del alcance incluyen: 
+•	La declaración del alcance del proyecto. 
+•	La EDT. 
+•	El diccionario de la EDT. 
+VERIFICAR EL ALCANCE: ENTRADAS 
+.2 Documentación de Requisitos 
+La documentación de requisitos enumera todos los requisitos del proyecto y del producto.
+.3 Matriz de Rastreabilidad de Requisitos 
+La matriz de rastreabilidad de requisitos vincula los requisitos con su origen y los monitorea a lo largo del ciclo de vida del proyecto.
+VERIFICAR EL ALCANCE: ENTRADAS 
+ 
+.4 Entregables Validados
+Los entregables validados han sido terminados y verificados para corroborar su exactitud a través del proceso Realizar el Control de Calidad. 
+VERIFICAR EL ALCANCE: 
+HERRAMIENTAS Y TÉCNICAS 
+.1 Inspección 
+La inspección incluye actividades tales como medir, examinar y verificar para determinar si el trabajo y los entregables cumplen con los requisitos y los criterios de aceptación del producto. 
+VERIFICAR EL ALCANCE: SALIDAS 
+.1 Entregables Aceptados 
+Los entregables que cumplen con los criterios de aceptación son formalmente firmados y aprobados por el cliente o el patrocinador.
+.2 Solicitudes de Cambio 
+Los entregables completados que no han sido aceptados formalmente se documentan junto con las razones por las cuales no fueron aceptados. Esos entregables pueden necesitar una solicitud de cambio para la reparación de defectos. 
+VERIFICAR EL ALCANCE: SALIDAS 
+.3 Actualizaciones a los Documentos del Proyecto
+Los documentos del proyecto que pueden actualizarse como resultado del proceso Verificar el Alcance incluyen todos aquellos documentos que definen el producto o que informan sobre su estado de terminación. 
+CONTROLAR EL ALCANCE 
+Controlar el Alcance es el proceso por el que se monitorea el estado del alcance del proyecto y del producto, y se gestionan cambios a la línea base del alcance. El control del alcance del proyecto asegura que todos los cambios solicitados o las acciones preventivas o correctivas recomendadas se procesen a través del proceso Realizar el Control Integrado de Cambios.
+CONTROLAR EL ALCANCE 
+El control del alcance del proyecto también se utiliza para gestionar los cambios reales cuando suceden y se integra a los otros procesos de control. Los cambios no controlados a menudo se denominan corrupción del alcance del proyecto. Los cambios son inevitables, por lo que se impone algún tipo de proceso de control de cambios. 
+CONTROLAR EL ALCANCE: ENTRADAS
+.1 Plan para la Dirección del Proyecto 
+Contiene la siguiente información que se utiliza para controlar el alcance: 
+•	La línea base del alcance. La línea base del alcance se compara con los resultados reales para determinar si es necesario implementar un cambio, o una acción preventiva o correctiva. 
+•	El plan para la gestión del alcance del proyecto. El plan para la gestión del alcance del proyecto describe la manera en que se gestionará y controlará el alcance del proyecto. 
+•	El plan de gestión de cambios. El plan de gestión de cambios define el proceso para gestionar los cambios en el proyecto. 
+CONTROLAR EL ALCANCE: ENTRADAS
+•	El plan de gestión de la configuración. El plan de gestión de la configuración define los elementos que son configurables, los que requieren un control formal de cambios, y el proceso para controlar los cambios a estos elementos. 
+•	El plan de gestión de requisitos. El plan de gestión de requisitos puede incluir el modo en que se realizará la planificación, el seguimiento y la comunicación de las actividades relacionadas con los requisitos, y el modo en que se iniciarán los cambios a los requisitos del producto, servicio o resultado. También describe cómo se analizarán los impactos y los niveles de autorización requeridos para aprobar estos cambios. 
+CONTROLAR EL ALCANCE: 
+ENTRADAS
+.2 Información sobre el Desempeño del Trabajo 
+Se refiere a la información sobre el avance del proyecto, tal como los entregables que han sido iniciados, su avance y los entregables que han sido terminados. 
+.3 Documentación de Requisitos .4 Matriz de Rastreabilidad de Requisitos 
+CONTROLAR EL ALCANCE: ENTRADAS
+.5 Activos de los Procesos de la Organización
+•	las políticas, procedimientos y lineamientos existentes, formales e informales, relacionados con el control del alcance 
+•	los métodos de seguimiento e información que se utilizarán
+CONTROLAR EL ALCANCE: 
+HERRAMIENTAS Y TÉCNICAS 
+.1 Análisis de Variación 
+Las mediciones del desempeño del proyecto se utilizan para evaluar la magnitud de la variación respecto de la línea base original del alcance. Los aspectos importantes del control del alcance del proyecto incluyen la determinación de la causa y del grado de variación con relación a la línea base del alcance y la decisión acerca de la necesidad de aplicar acciones preventivas o correctivas. 
+CONTROLAR EL ALCANCE: SALIDAS
+.1 Mediciones del Desempeño del Trabajo 
+Las mediciones pueden incluir el desempeño técnico planificado con respecto al real u otras mediciones del desempeño del alcance. Esta información se documenta y se comunica a los interesados
+.2 Actualizaciones a los Activos de los Procesos de la Organización • las causas de las variaciones 
+•	las acciones correctivas seleccionadas y la razón de su selección 
+•	otros tipos de lecciones aprendidas procedentes del control del alcance del proyecto 
+CONTROLAR EL ALCANCE: SALIDAS
+.3 Solicitudes de Cambio 
+El análisis del desempeño del alcance puede dar lugar a una solicitud de cambio a la línea base del alcance o de otros componentes del plan para la dirección del proyecto.
+.4 Actualizaciones al Plan para la Dirección del Proyecto
+•	Actualizaciones a la línea base del alcance 
+•	Actualizaciones a otras líneas base
+CONTROLAR EL ALCANCE: SALIDAS
+.5 Actualizaciones a los Documentos del Proyecto 
+•	la documentación de requisitos 
+•	la matriz de rastreabilidad de requisitos
